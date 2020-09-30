@@ -1,4 +1,4 @@
-# ExcuseMePlayer
+# Excuse Me Player
 
 一个和同学一起写的桌面音乐播放器
 
@@ -12,7 +12,7 @@
 
 
 
-**Feature (☑☒):**
+**Features (☑☒):**
 
 ☑ 本地歌曲播放
 
